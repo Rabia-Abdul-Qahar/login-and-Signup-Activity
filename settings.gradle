@@ -1,0 +1,2 @@
+rootProject.name = "P2T1"
+include ':app'
